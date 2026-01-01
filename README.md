@@ -41,6 +41,23 @@ A real-time demonstration of the system is available here:
 
 https://youtu.be/ome3vRgSnmw
 
+## Factory IO Screenshots
+
+![Screenshot 2026-01-01 133945](https://github.com/user-attachments/assets/4a8573ac-155f-41be-bb4e-c64a20b284b0)
+
+![Screenshot 2026-01-01 133858](https://github.com/user-attachments/assets/ab11a6a3-559d-4a87-b753-87875e50bca0)
+
+
+## HMI Screenshots
+
+### Main Control Screen
+![HMI main screen](https://github.com/user-attachments/assets/44440de3-c350-424a-a34b-b3eabba3635c)
+
+
+### Alarm & Diagnostics
+![HMI status](https://github.com/user-attachments/assets/5ad63039-61f7-430d-ae78-fb89fce81e9d)
+
+
 ---
 
 ## Tools & Technologies
